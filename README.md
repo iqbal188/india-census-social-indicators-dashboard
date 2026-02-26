@@ -140,7 +140,7 @@ pip install -r requirements.txt
 
 ## 🌍 Live Application
 
-(You can add your Streamlit Cloud link here after deployment.)
+https://iqbal188-india-census-social-indicators-dashboard-app-sqftsf.streamlit.app/
 
 ---
 
